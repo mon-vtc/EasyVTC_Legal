@@ -1,0 +1,16 @@
+{
+  "name": "easyvtc-legal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pages légales EasyVTC (politique de confidentialité) — hébergées pour la soumission Play Store / App Store.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
